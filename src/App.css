@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  /* background-color: brown; */
+}
+
+h1 {
+  color: white;
+}
+
+button {
+    width: 90px;
+    height: 40px;
+    font-family: josefin-sans;
+    background-color: white;
+
+}
+
+
+.B {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.div_table{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+table{
+  width: 90%;
+  margin-top: 100px;
+}
+td{
+  border: 1px solid black
+}
